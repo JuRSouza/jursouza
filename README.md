@@ -16,7 +16,7 @@ Em transição de carreira de Nutrição para Desenvolvimento de Software, sou a
 - **Análise e Desenvolvimento de Sistemas** - Uninter (Cursando)
 
 ### 💼 Projetos
-- [Site Portfólio](https://jursouza.github.io)
+- [Projeto CV- Curriculim - Atividade Uninter](https://jursouza.github.io)
 - [Projeto Sistema de Pagamento - Atividade curso Senac](https://pagamento-bavarois-4b9517.netlify.app/)
 - [Projeto Site de Hotel - Atividade curso Senac](https://hotel-valkyrie-ac26b2.netlify.app/)
 - [Projeto Site Financeira - Atividade curso Senac](https://financeira-druid-9e319c.netlify.app/)
