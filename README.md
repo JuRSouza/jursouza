@@ -2,7 +2,7 @@
 
 Em transição de carreira de Nutrição para Desenvolvimento de Software, sou apaixonada por criar softwares que melhoram a experiência do usuário e explorar a área de Análise de Dados. Com mais de 11 anos na área de Nutrição, desenvolvi habilidades em trabalho em equipe, organização e resolução de problemas, que agora aplico na programação e no tratamento de dados para gerar insights valiosos.
 
-### 🚀 Habilidades e Tecnologias
+### 🚀 Tecnologias
 - Linguagens: JavaScript, Python, Java, HTML, CSS
 - Bancos de Dados: MySQL
 - Ferramentas: Git, GitHub, Metodologias Ágeis
@@ -10,6 +10,7 @@ Em transição de carreira de Nutrição para Desenvolvimento de Software, sou a
 ### 🌱 Atualmente Aprendendo
 - Python 
 - Análise de Dados
+- Power BI
 
 ### 🎓 Formação Acadêmica
 - **Técnico em Desenvolvimento de Sistemas** - Senac (Concluído)
