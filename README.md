@@ -1,6 +1,6 @@
 ### 👋 Olá! Eu sou Juliana Rodrigues de Souza
 
-Em transição de carreira de Nutrição para Desenvolvimento de Software, sou apaixonada por criar softwares que melhoram a experiência do usuário. Com mais de 11 anos na área de Nutrição, desenvolvi habilidades em trabalho em equipe, organização e resolução de problemas, que agora aplico na programação.
+m transição de carreira de Nutrição para Desenvolvimento de Software, sou apaixonada por criar softwares que melhoram a experiência do usuário e explorar a área de Análise de Dados. Com mais de 11 anos na área de Nutrição, desenvolvi habilidades em trabalho em equipe, organização e resolução de problemas, que agora aplico na programação e no tratamento de dados para gerar insights valiosos.
 
 ### 🚀 Habilidades e Tecnologias
 - Linguagens: JavaScript, Python, Java, HTML, CSS
