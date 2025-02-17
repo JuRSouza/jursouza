@@ -10,11 +10,13 @@ Em transição de carreira de Nutrição para Desenvolvimento de Software, sou a
 ### 🌱 Atualmente Aprendendo
 - Python 
 - Análise de Dados
+- JavaScrpt
 - Power BI
 
 ### 🎓 Formação Acadêmica
 - **Técnico em Desenvolvimento de Sistemas** - Senac (Concluído)
 - **Análise e Desenvolvimento de Sistemas** - Uninter (Cursando)
+- **Trilha de Estudos - Oracle Next Education (ONE) | Alura & MCIO Brasil** -(F2 T8 Cursando)
 
 ### 💼 Projetos
 - [Projeto Jogo do numero Secreto - Atividade Curso Alura](https://jogo-sepia-xi.vercel.app/)
