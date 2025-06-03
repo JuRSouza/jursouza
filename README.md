@@ -24,3 +24,7 @@ Em transição de carreira de Nutrição para Desenvolvimento de Software, sou a
 - [Projeto Sistema de Pagamento - Atividade curso Senac](https://pagamento-bavarois-4b9517.netlify.app/)
 - [Projeto Site de Hotel - Atividade curso Senac](https://hotel-valkyrie-ac26b2.netlify.app/)
 - [Projeto Site Financeira - Atividade curso Senac](https://financeira-druid-9e319c.netlify.app/)
+
+  
+### 🧠 Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jursouza&layout=compact&theme=dark)
