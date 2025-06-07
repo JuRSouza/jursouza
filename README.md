@@ -28,3 +28,6 @@ Em transição de carreira de Nutrição para Desenvolvimento de Software, sou a
   
 ### 🧠 Linguagens mais usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jursouza&layout=compact&theme=dark)
+
+[![GitHub](https://img.shields.io/badge/GitHub-JuRSouza-181717?style=for-the-badge&logo=github)](https://github.com/JuRSouza)
+
