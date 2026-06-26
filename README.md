@@ -15,8 +15,8 @@ Em transição de carreira de Nutrição para Desenvolvimento de Software, sou a
 
 ### 🎓 Formação Acadêmica
 - **Técnico em Desenvolvimento de Sistemas** - Senac (Concluído)
-- **Análise e Desenvolvimento de Sistemas** - Uninter (Cursando)
-- **Trilha de Estudos - Oracle Next Education (ONE) | Alura & MCIO Brasil** -(F2 T8 Cursando)
+- **Análise e Desenvolvimento de Sistemas** - Uninter (Concluído)
+- **Trilha de Estudos - Oracle Next Education (ONE) | Alura & MCIO Brasil** -(F2 T8 Concluído)
 
 ### 💼 Projetos
 - [Projeto Jogo do numero Secreto - Atividade Curso Alura](https://jogo-sepia-xi.vercel.app/)
